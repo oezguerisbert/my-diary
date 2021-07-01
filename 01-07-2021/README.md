@@ -6,7 +6,7 @@ I just started my day at around 11 AM and had my coffee straight away. I booted 
 
 ## Noon
 
-In the noon I continued to work on my backup/restore-functionality of the [dotfiles](https://github.com/oezguerisbert/dotfiles.git) project (Will publish it next week on monday). So far it works with the current files, but I'd like to make it more dynamic and less complicated for me and others to use. It should be "bad" for now but later it will be made more generic.
+In the noon I continued to work on my backup/restore-functionality of the ||[dotfiles](https://github.com/oezguerisbert/dotfiles.git)|| project (Will publish it next week on monday). So far it works with the current files, but I'd like to make it more dynamic and less complicated for me and others to use. It should be "bad" for now but later it will be made more generic.
 
 ## Evening
 

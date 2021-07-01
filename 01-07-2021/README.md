@@ -10,4 +10,4 @@ In the noon I continued to work on my backup/restore-functionality of the [dotfi
 
 ## Evening
 
-I was working on the [dotfiles](https://github.com/oezguerisbert/dotfiles.git) project and finshed it up until this version. I will add more stuff to my neovim setup and configurations with certain tools like vim-prettier and ALE. (People recommended me those). I need a proper formatter for every possible language.
+I was working on the [dotfiles](https://github.com/oezguerisbert/dotfiles.git) project and finshed it up until this version. I will add more stuff to my neovim setup and configurations with certain tools like vim-prettier and ALE. (People recommended me those). I need a proper formatter for every possible language. I also added into my `.zshrc` file a diary functionality for this setup up that I have here. :)

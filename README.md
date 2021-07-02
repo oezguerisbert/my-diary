@@ -6,4 +6,4 @@ If anyone has questions regarding any content, hit me up with a simple issue and
 
 My "Diary" is not made to joke on things, even tho I love memes. From time to time I might put some sarcasm here and there, and try to clearify the comment as `(sarcasm)`.
 
-Any Ideas on how to make this better? Hit me up on the [issues](https://github.com/oezguerisbert/me/issues) and tell me what you like to see here.
+Any Ideas on how to make this better? Hit me up on the [issues](https://github.com/oezguerisbert/my-diary/issues) and tell me what you like to see here.
